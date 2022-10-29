@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Rukiye Arıcan (@rukiyearican)
 - 👀 I’m interested in cloud developing
+- 👩🏻‍🌾
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me rukiyearican@gmail.com 
 
