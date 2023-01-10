@@ -1,5 +1,5 @@
 - 🧷 hi, i’m rukiye arıcan (@rukiyearican)
-- ☁️ i’m interested in cloud developing
+- ☁️ i’m interested in machine learning 
 - 🧩 i’m currently learning AI
 - ☄️ don't worry while hiring me, im a fast lerner because i dont like being unemployed
 - 📫 how to reach me --> rukiyearican@gmail.com 
