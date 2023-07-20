@@ -1,5 +1,5 @@
 - 🧷 hi, i’m rukiye arıcan (@rukiyearican)
-- 🧩 i’m currently learning AI
+- 🧩 currently dismantling computers to atoms,
 - ☄️ now i'm working freelance backend developer, and always looking for jobs that will improve me
 
 <h3 align="left">📫 how to reach me</h3>
